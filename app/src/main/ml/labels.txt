@@ -1,0 +1,3 @@
+caution_pothole
+caution_speedbump
+caution_speedbump_plastic
